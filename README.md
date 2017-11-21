@@ -5,12 +5,12 @@ Please clone this repository on your local computer and follow these steps:
 - Complete the test (see details below)
 - Commit and Push to your branch (you can commit as many times as you want)
 
-###Files:
+### Files:
 - index.html
 - style.css
 - main.js
 
-###Test Details:
+### Test Details:
 
 Finished Web App: https://screencast.com/t/UysTiuIjPM
 Screenshot: https://screencast.com/t/GQPrB14T
