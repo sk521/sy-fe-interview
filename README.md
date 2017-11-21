@@ -12,7 +12,7 @@ Please clone this repository on your local computer and follow these steps:
 
 ### Test Details:
 
-- Finished Web App: https://screencast.com/t/UysTiuIjPM
+- Finished Web App: https://screencast.com/t/UysTiuIjPM (needs flash)
 - Screenshot: https://screencast.com/t/GQPrB14T
 
 Using CSS and Javascript (JQuery), try to reproduce the functionnalities as seen on the above video.
