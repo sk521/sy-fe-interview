@@ -1,2 +1,18 @@
-# sy-frontend-interview
-Sooryen Front-End Test
+# Sooryen Front-End Interview
+
+Please clone this repository on your local computer and follow these steps:
+- Create a branch with your first name as the branch name
+- Complete the test (see details below)
+- Commit and Push to your branch (you can commit as many times as you want)
+
+Files:
+- index.html
+- style.css
+- main.js
+
+Test Details:
+Finished Web App: https://screencast.com/t/UysTiuIjPM
+Screenshot: https://screencast.com/t/GQPrB14T
+
+Using CSS and Javascript (JQuery), try to reproduce the functionnalities as seen on the above video.
+Details can be found in main.js and style.css
